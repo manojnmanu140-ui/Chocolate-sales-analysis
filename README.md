@@ -1,4 +1,4 @@
-[README_Chocolate_Sales_Analysis.md](https://github.com/user-attachments/files/34413103/README_Chocolate_Sales_Analysis.md)
+
 # Chocolate-sales-analysis
 Interactive Chocolate Sales Analysis Dashboard built using Power BI. Features salesperson ranking from highest to lowest sales, top-selling products, total boxes sold, monthly sales trend analysis, and an interactive date-range timeline slicer to explore sales performance.
 
@@ -12,8 +12,7 @@ analysis.
 
 ## Dashboard Preview
 
-![Chocolate Sales Analysis
-Dashboard](images/chocolate-sales-dashboard.png)
+![Chocolate Sales Analysis]
 
 > To display the preview on GitHub, add the dashboard screenshot to your
 > repository at `images/chocolate-sales-dashboard.png`. You can change
